@@ -318,7 +318,7 @@ function getMetadata(name, doc = document) {
  * @param {Array} [breakpoints] Breakpoints and corresponding params (eg. width)
  * @returns {Element} The picture element
  */
-// function createOptimizedPicture(
+//  function createOptimizedPicture(
 //   src,
 //   alt = '',
 //   eager = false,
@@ -355,7 +355,7 @@ function getMetadata(name, doc = document) {
 //   });
 
 //   return picture;
-// }
+//  }
 
 /**
  * Set template (page structure) and theme (page styles).
